@@ -1,0 +1,6 @@
+discord
+asyncio
+git+https://github.com/burnash/gspread
+git+https://github.com/Rapptz/discord.py.git
+oauth2client
+google-api-python-client
